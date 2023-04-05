@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: antiquewhite;
+    font-family: 'Monaco', 'Lucida Console', Monospace;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h1,
+h2 {
+    font-family:'Courier New', Monospace;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 1000;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 800;
+}
